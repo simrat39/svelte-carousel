@@ -34,8 +34,5 @@
     "src",
     "dist/index.js",
     "dist/index.mjs"
-  ],
-  "dependencies": {
-    "siema": "^1.5.1"
-  }
+  ]
 }
